@@ -10,7 +10,7 @@ export class AppComponent {
   title = 'FE-Angular-App1';
   
   response = "Oops!!! Looks like Backend API is down. Please ensure BE API1 is running !!!";
-  beApp1response = "Oops!!! Looks like Backend API is down. Please ensure BE API1 is running !!!";
+  beApp1response = "Oops!!! Looks like Backend API is down. Please ensure BE API2 is running !!!";
 
   constructor(private http: HttpClient) 
   { 
